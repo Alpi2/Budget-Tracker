@@ -1,5 +1,9 @@
 # Budget Tracker Anwendung
 
+🚧 Hinweis: Diese Anwendung befindet sich derzeit in aktiver Entwicklung.
+Das Benutzerinterface ist einfach gehalten und wird schrittweise verbessert.
+Ziel ist es, eine stabile Full-Stack-Grundstruktur bereitzustellen.
+
 ## Projektübersicht
 
 Budget Tracker ist eine moderne Webanwendung zur persönlichen Finanzverwaltung. Die Anwendung ermöglicht es Benutzern, ihre Einnahmen und Ausgaben zu verfolgen, Belege hochzuladen und detaillierte finanzielle Übersichten zu erstellen.
@@ -39,9 +43,9 @@ Budget Tracker ist eine moderne Webanwendung zur persönlichen Finanzverwaltung.
 
 1. Repository klonen:
 
-git clone [repository-url]
+git clone git@github.com:Alpi2/Budget-Tracker.git
 
-2.Abhängigkeiten installieren:
+2. Abhängigkeiten installieren:
 
 ## Backend Abhängigkeiten
 
